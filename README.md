@@ -1,45 +1,46 @@
-# QA Manual Testing Project 1
+# QA Database Testing Project 2
 
 ## Overview
 
-This project demonstrates manual software testing skills using the SauceDemo web application.
+This project demonstrates database testing skills using a PostgreSQL sample database.
 
-The objective was to plan, execute and document manual testing activities commonly performed by a Junior QA Tester.
+The objective was to plan, execute and document database testing activities commonly performed by a Junior QA Tester.
 
-## Application Under Test
+## Database Under Test
 
-Website: Swag Labs
-https://www.saucedemo.com
+Database: PostgreSQL DVD Rental Sample Database
 
 ## Testing Activities
 
-- Test Scenario Creation
+- Database Testing
+- SQL Query Validation
+- Data Verification
 - Test Case Design
 - Test Execution
 - Defect Reporting
-- Jira Tracking
 - Test Summary Reporting
 
 ## Project Deliverables
 
-- Test Scenarios
+- Test Plan
+- SQL Queries
 - Test Cases
+- Test Execution Results
 - Bug Reports
-- Jira Evidence
 - Test Summary Report
 
 ## Tools Used
 
-- Jira
+- PostgreSQL
+- pgAdmin
 - GitHub
 - Google Sheets / Excel
-- Web Browser
 
 ## Skills Demonstrated
 
-- Manual Testing
-- Functional Testing
-- Negative Testing
-- Exploratory Testing
+- Database Testing
+- SQL
+- Data Validation
+- Data Integrity Testing
 - Defect Reporting
 - Test Documentation
